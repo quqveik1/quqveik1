@@ -18,5 +18,5 @@ I'm a beginner developer, learning by creating projects in `C++`, `Java`, and `K
 - ❓ Quiz game, full-fledged client-server interaction. The server is implemented in `Spring`. Questions are generated using `Chat GPT API`. [🔗](https://github.com/quqveik1/QuizApp)
 
 ----
-- 🇷🇺🪆 Русский
-- 🇩🇪🥨 Deutsch
+- [Русский 🪆](https://github.com/quqveik1/quqveik1/blob/main/README.md)
+- [Deutsch 🥨](https://github.com/quqveik1/quqveik1/blob/main/README_DE.md)
